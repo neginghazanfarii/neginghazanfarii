@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
+
 **neginghazanfarii/neginghazanfarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Frontend Developer Portfolio
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! I'm a passionate Frontend Developer specializing in building user-friendly and visually appealing web applications. I work extensively with React and other modern frontend technologies to create responsive and dynamic user interfaces.
+
+## Skills
+
+- JavaScript  
+- React  
+- Redux  
+- Leaflet  
+- Bootstrap  
+- Tailwind CSS  
+- Other modern frontend tools and libraries
+
+<!--
+## Projects
+
+Here are a few noteworthy projects I've worked on:
+
+- [Project 1](#): Description of your project.
+- [Project 2](#): Description of another project.
 -->
+## Contact
+
+Feel free to connect with me!
+
+- Email: [neginghazanfari81@gmail.com](mailto:neginghazanfari81@gmail.com)
+
+---
+Thanks for visiting my profile! 🚀
